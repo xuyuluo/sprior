@@ -1,4 +1,4 @@
-## Priors for MR imaging reconstruction
+## Learnt Priors for MR imaging reconstruction
 
 ### Background
 
